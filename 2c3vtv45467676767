@@ -4,7 +4,7 @@
 -- ╚══════════════════════════════════════════════════════════╝
 
 -- ⚠️ DEINE GITHUB RAW URL HIER EINSETZEN:
-local SpeedLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/DEINNAME/DEINREPO/main/SpeedLib.lua"))()
+local SpeedLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/PulseXHub/34r5b674564/refs/heads/main/LIB"))()
 
 -- ════════════════════════════════════════
 --  Services & Shortcuts
